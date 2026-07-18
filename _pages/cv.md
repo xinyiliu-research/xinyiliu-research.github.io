@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can [download my CV as a PDF here]({{ base_path }}/files/Xinyi_Liu_CV.pdf).
+You can [download my CV as a PDF here]({{ base_path }}/files/Xinyi_CV.pdf).
 
-<embed src="{{ base_path }}/files/Xinyi_Liu_CV.pdf" type="application/pdf" width="100%" height="900px" />
+<embed src="{{ base_path }}/files/Xinyi_CV.pdf" type="application/pdf" width="100%" height="900px" />
