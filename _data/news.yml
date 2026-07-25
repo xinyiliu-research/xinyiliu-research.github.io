@@ -1,0 +1,14 @@
+# Home-page News list. Newest first (latest to older). Keep to ~5 items; delete the oldest as you add.
+# `text` accepts Markdown (links, *italics*, **bold**).
+
+- date: "2026/07"
+  text: "[New publication](/publications/) is out in the *Journal of Communication*."
+
+- date: "2026/07"
+  text: "Presented at PolMeth 2026."
+
+- date: "2026/07"
+  text: "Presented at IC2S2 2026."
+
+- date: "2026/04"
+  text: "[New publication](/publications/) is out in *Computational Communication Research*."
