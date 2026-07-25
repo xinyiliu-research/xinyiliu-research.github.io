@@ -13,9 +13,10 @@ $doc-font-size              : 16;
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
-/* System typefaces */
-$serif                      : "Source Serif 4", Georgia, Times, serif;
-$sans-serif                 : "Inter", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+/* Site-wide typeface: Carlito (metric-compatible Calibri clone) with Calibri fallback */
+$carlito                    : "Carlito", "Calibri", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+$serif                      : $carlito;
+$sans-serif                 : $carlito;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* Sans serif typefaces */
