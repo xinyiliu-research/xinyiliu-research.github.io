@@ -2,10 +2,10 @@
 # `text` accepts Markdown (links, *italics*, **bold**).
 
 - date: "2026/07"
-  text: "Presented at IC2S2 2026."
+  text: "Presented at the 12th International Conference on Computational Social Science (IC2S2)."
 
 - date: "2026/07"
-  text: "Presented at PolMeth 2026."
+  text: "Presented at the 2026 Annual Meeting of the Society for Political Methodology (PolMeth)."
 
 - date: "2026/07"
   text: "[New publication](https://doi.org/10.1093/joc/jqag010) (with Yingdan Lu & Carl Zhou) is out in the *Journal of Communication*."
