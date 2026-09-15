@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there :) I am a PhD student in Media, Technology, and Society at Northwestern University, advised by [Dr. Yingdan Lu](https://yingdanlu.com/). I serve as Lab Manager for the [Computational Media and Politics (COMAP) Lab](https://www.comaplab.org/) and the [Computational Multi-Modal Communication (CMMC) Lab](https://sites.google.com/view/cmmclab). Before Northwestern, I received my M.A. in Communication from Nanyang Technological University (advised by Dr. Shirley S. Ho) and my B.A. in French Literature from Communication University of China.
+Hi there :) I am a PhD student in Media, Technology, and Society at Northwestern University, advised by [Dr. Yingdan Lu](https://yingdanlu.com/). I serve as Lab Manager for the [Computational Media and Politics (COMAP) Lab](https://www.comaplab.org/) and the [Computational Multi-Modal Communication (CMMC) Lab](https://sites.google.com/view/cmmclab). Before Northwestern, I received my M.A. in Communication from Nanyang Technological University and my B.A. in French Literature from Communication University of China.
 
 My research examines how social media algorithms and generative AI shape information flows and political communication across comparative contexts. Methodologically, I apply causal inference and computational multimodal analysis to analyze large-scale visual and video data. I am particularly interested in:
 
