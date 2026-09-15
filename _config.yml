@@ -84,7 +84,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'Peer-reviewed Journal Articles'
+    title: 'Peer-reviewed Journal Articles and Conference Proceedings'
   under_review:
     title: 'Under Review'
   conferences:
