@@ -85,6 +85,8 @@ author:
 publication_category:
   manuscripts:
     title: 'Peer-reviewed Journal Articles and Conference Proceedings'
+  book_chapters:
+    title: 'Book Chapter'
   under_review:
     title: 'Under Review'
   conferences:
